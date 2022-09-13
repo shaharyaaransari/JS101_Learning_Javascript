@@ -1,0 +1,13 @@
+var name = "𝓜𝓭 𝓼𝓱𝓪𝓱𝓪𝓻𝔂𝓪𝓪𝓻 𝓪𝓷𝓼𝓪𝓻𝓲";
+var schoolname ="𝓶𝓪𝓻𝓲𝓪𝓼 𝓭𝓪𝔂 𝓼𝓬𝓱𝓸𝓸𝓵";
+var grade = "12𝓽𝓱";
+ var section = "𝓭";
+var rollno = "𝟮𝟯";
+var subject = "𝑨𝒄𝒄𝒐𝒖𝒏𝒕𝒔-61,𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒆-55,𝑬𝒏𝒈𝒍𝒊𝒔𝒉-75";
+console.log("*****Report Card*****");
+console.log(name);
+console.log(schoolname);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(subject);
